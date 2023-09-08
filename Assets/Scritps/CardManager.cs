@@ -9,6 +9,19 @@ public class CardManager : MonoBehaviour
     public RawImage rawImage;
     public string nameData;
     private string rute;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     void Start()
     {
         rute = Application.streamingAssetsPath + "/" + nameData + ".json";
