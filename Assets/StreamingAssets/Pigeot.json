@@ -1,0 +1,12 @@
+{
+    "name": "Pigeot",
+    "type": "Normal",
+    "hp": 10,
+    "resistance": 20,
+    "nameTexture": "PigeotTex",
+    "imageSprite": {
+        "instanceID": 0
+    },
+    "attack": 15,
+    "shiny": false
+}

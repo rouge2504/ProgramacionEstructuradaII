@@ -1,0 +1,76 @@
+{
+    "Items": [
+        {
+            "name": "Cubone",
+            "type": "Tierra",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        },
+        {
+            "name": "Pigeot",
+            "type": "Aire",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        },
+        {
+            "name": "Gengar",
+            "type": "Fantasma",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        },
+        {
+            "name": "Chilaquil",
+            "type": "Fuego",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        },
+        {
+            "name": "Pikachu",
+            "type": "Electrico",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        },
+        {
+            "name": "Golem",
+            "type": "Tierra",
+            "hp": 10,
+            "resistance": 20,
+            "nameTexture": "CuboneTex",
+            "imageSprite": {
+                "instanceID": 0
+            },
+            "attack": 15,
+            "shiny": true
+        }
+    ]
+}

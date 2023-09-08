@@ -1,0 +1,12 @@
+{
+    "name": "Cubone",
+    "type": "Tierra",
+    "hp": 10,
+    "resistance": 20,
+    "nameTexture": "CuboneTex",
+    "imageSprite": {
+        "instanceID": 0
+    },
+    "attack": 15,
+    "shiny": true
+}
